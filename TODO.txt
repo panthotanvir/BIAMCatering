@@ -1,0 +1,10 @@
+1. Estimation DONE
+2. Setting Price DONE
+3. Bazar List DONE
+4. Profit Loss for each Menu and by Date DONE
+5. User Access PARTIAL
+
+ingredients list for estimation is now fixed
+but there might be some cases where a change in the list of ingredients will be necessary
+i.e. some vegetables are not always available, so there might be a need to remove some ingredients in that case.
+
